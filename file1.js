@@ -9,3 +9,4 @@ function x(a) {
 }
 
 console.log(x(5)(6))
+console.log(x(7)(9))
